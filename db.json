@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "56789",
+      "name": "aadi",
+      "email": "aadhi@gimail.com",
+      "designation": "tester",
+      "salary": "3456"
+    },
+    {
+      "id": "4567",
+      "name": "adarsh",
+      "email": "adarsh@gmail.com",
+      "designation": "developer",
+      "salary": "5678"
+    },
+    {
+      "id": "959",
+      "name": "muneer",
+      "email": "muneer@gmail.com",
+      "designation": "hmm",
+      "salary": "5675"
+    }
+  ]
+}
